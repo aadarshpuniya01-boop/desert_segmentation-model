@@ -190,7 +190,7 @@ api.upload_file(
     path_in_repo    = "app.py",
     repo_id         = "Aadarshhhhhhhh"/desert-segmentation",
     repo_type       = "space",
-    token           = "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",
+    token           = "hf_xxxxxxxxxxxxxx",
 )
 ```
 
